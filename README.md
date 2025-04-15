@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0664-strange-printer](https://github.com/subratadasGit/LeetCodeDope/tree/master/0664-strange-printer) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
 ## Binary Search
 |  |
@@ -58,5 +60,6 @@
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
 <!---LeetCode Topics End-->
