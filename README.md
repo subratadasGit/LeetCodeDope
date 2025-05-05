@@ -4,6 +4,7 @@
 ## String
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/subratadasGit/LeetCodeDope/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0664-strange-printer](https://github.com/subratadasGit/LeetCodeDope/tree/master/0664-strange-printer) |
 ## Dynamic Programming
@@ -14,6 +15,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0049-group-anagrams](https://github.com/subratadasGit/LeetCodeDope/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
@@ -45,6 +47,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/subratadasGit/LeetCodeDope/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
@@ -59,6 +62,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/subratadasGit/LeetCodeDope/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
