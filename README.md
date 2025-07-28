@@ -16,6 +16,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/subratadasGit/LeetCodeDope/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/subratadasGit/LeetCodeDope/tree/master/0027-remove-element) |
 | [0049-group-anagrams](https://github.com/subratadasGit/LeetCodeDope/tree/master/0049-group-anagrams) |
 | [0189-rotate-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
@@ -26,6 +27,7 @@
 |  |
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/subratadasGit/LeetCodeDope/tree/master/0027-remove-element) |
 | [0189-rotate-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/subratadasGit/LeetCodeDope/tree/master/0283-move-zeroes) |
 ## Math
