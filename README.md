@@ -23,6 +23,7 @@
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subratadasGit/LeetCodeDope/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/subratadasGit/LeetCodeDope/tree/master/1878-check-if-array-is-sorted-and-rotated) |
+| [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
