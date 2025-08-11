@@ -22,6 +22,7 @@
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/subratadasGit/LeetCodeDope/tree/master/0283-move-zeroes) |
+| [0682-baseball-game](https://github.com/subratadasGit/LeetCodeDope/tree/master/0682-baseball-game) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/subratadasGit/LeetCodeDope/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2277-count-equal-and-divisible-pairs-in-an-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/2277-count-equal-and-divisible-pairs-in-an-array) |
 ## Two Pointers
@@ -71,4 +72,12 @@
 | [0217-contains-duplicate](https://github.com/subratadasGit/LeetCodeDope/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/subratadasGit/LeetCodeDope/tree/master/0242-valid-anagram) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
+## Stack
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/subratadasGit/LeetCodeDope/tree/master/0682-baseball-game) |
+## Simulation
+|  |
+| ------- |
+| [0682-baseball-game](https://github.com/subratadasGit/LeetCodeDope/tree/master/0682-baseball-game) |
 <!---LeetCode Topics End-->
