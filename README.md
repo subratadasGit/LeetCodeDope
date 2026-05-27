@@ -39,6 +39,7 @@
 | [0009-palindrome-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0009-palindrome-number) |
 | [0189-rotate-array](https://github.com/subratadasGit/LeetCodeDope/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/0268-missing-number) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/subratadasGit/LeetCodeDope/tree/master/2520-count-the-digits-that-divide-a-number) |
 ## Database
 |  |
 | ------- |
